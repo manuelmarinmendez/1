@@ -51,7 +51,7 @@ https://iptvcoder.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="varios", Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="varios", Multimedios Laguna
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/multimedios.png" group-title="varios", Multimedios Laguna
 http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="" group-title="varios", Canal 24H
@@ -152,12 +152,6 @@ https://cvi.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Pelis",HBO POP
 https://cvi.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/725px-Logo_Univision_2019.svg.png" group-title="Pelis", HBO Oeste
-https://iptvcoder.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/11cdx55gt
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/725px-Logo_Univision_2019.svg.png" group-title="Pelis", HBO 2 Oeste
-https://iptvcoder.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dox171xc
 
 #EXTINF:-1 tvg-id="3" tvg-logo="" group-title="Pelis", Cinecanal
 https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
